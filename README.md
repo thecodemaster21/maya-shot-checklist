@@ -1,6 +1,6 @@
 # Maya Pre-Publish Shot To-Do List
 
-A lightweight, native Maya pre-publish checklist utility designed for 3D Artists, Lighting TDs, Animators, and Compositors to perform essential scene sanity checks before publishing shots to production management tools (e.g., ShotGrid/F秩序).
+A lightweight, native Maya pre-publish checklist utility designed for 3D Artists, Lighting TDs, Animators, and Compositors to perform essential scene sanity checks before publishing shots to production management tools (e.g., ShotGrid).
 
 Developed by **Rahul Gambhir** ([@thecodemaster21](https://github.com/thecodemaster21)).
 
