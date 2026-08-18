@@ -1,0 +1,16 @@
+# Maya temporary files and logs
+*.swp
+*.tmp
+*.log
+*.mb.bnd
+*.ma.bnd
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS settings
+.DS_Store
+.vscode/
+.idea/
